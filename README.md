@@ -151,6 +151,8 @@ Areas
 * [Ranjitha Kumar](http://ranjithakumar.net/)
 * [Julian McAuley](http://cseweb.ucsd.edu/~jmcauley/)
 * [Kota Yamaguchi](https://sites.google.com/view/kyamagu/home)
+* [Katrien Laenen](https://scholar.google.com/citations?user=AJ9WN34AAAAJ&hl=nl)
+* [Susana Zoghbi](https://scholar.google.com/citations?user=ravmkhkAAAAJ&hl=en)
 
 
 ### Miscellaneous
