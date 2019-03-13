@@ -144,14 +144,15 @@ Areas
 * Fashion Takes Shape
 * ModaNet [paper](https://arxiv.org/pdf/1807.01394v2.pdf)
 
-<!---
+
 ### People
 * [Tamara Berg](http://www.tamaraberg.com/)
 * [Kristen Graumen](http://www.cs.utexas.edu/users/grauman/)
 * [Ranjitha Kumar](http://ranjithakumar.net/)
 * [Julian McAuley](http://cseweb.ucsd.edu/~jmcauley/)
 * [Kota Yamaguchi](https://sites.google.com/view/kyamagu/home)
--->
+
+
 ### Miscellaneous
 - [Fashion-Gen: The Generative Fashion Dataset and Challenge](https://arxiv.org/abs/1806.08317v1)
 - [Brand > Logo: Visual Analysis of Fashion Brands](https://arxiv.org/pdf/1810.09941v1.pdf)
